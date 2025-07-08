@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Back-end Developer** who loves 
 
 ## 🚀 Projects
 
-🔐 [Auth-server](https://github.com/HahnGuil/auth-server): Authentication service with JWT and Spring Security  
+🔐 [Auth-server](https://github.com/HahnGuil/ms-auth-server): Authentication service with JWT and Spring Security  
 📦 [SMbuilding](https://github.com/HahnGuil/smbuilding): A small API to help syndicators manage condominium documents  
 ♟️ [Chessboard](https://github.com/HahnGuil/tabuleiroXadrez): A small chessboard to help you understand OOP concepts
 
